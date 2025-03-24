@@ -1,0 +1,9 @@
+host:
+  test001:
+    ip: 192.168.123.240
+    pwd: ''
+    port: 6379
+  test002:
+    ip: 192.168.42.128
+    pwd: 45ef3u@d4Dfd
+    port: 6379
