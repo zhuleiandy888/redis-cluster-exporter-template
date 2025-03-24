@@ -3,10 +3,14 @@ redis-cluster-exporter-template
 ### usage help
 
 ## run 
+```
 redis_cluster_exporter --listen-address=:9104 --metrics-path=/metrics --config=/path/xxx/redis.yaml
+```
 
 ## scrape redis data example
+```
 curl http://192.168.3.240:9104/metrics?name=test002
+```
 
 ## redis config file example
 ```
