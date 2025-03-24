@@ -1,9 +1,9 @@
 host:
   test001:
-    ip: 192.168.123.240
+    ip: 192.168.3.240
     pwd: ''
     port: 6379
   test002:
-    ip: 192.168.42.128
-    pwd: 45ef3u@d4Dfd
+    ip: 192.168.2.128
+    pwd: xxxxxxx
     port: 6379

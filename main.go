@@ -34,7 +34,7 @@ var (
 	).Default("/metrics").String()
 	configMycnf = kingpin.Flag(
 		"config",
-		"Path to my.yaml file to read MySQL credentials from.",
+		"Path to redis.yaml file to read redis credentials from.",
 	).Default("redis.yaml").String()
 	cfgFile string
 )
